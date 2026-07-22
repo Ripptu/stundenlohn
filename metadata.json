@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Fintrixity",
+  "description": "Private Freelancer Hourly Rate & Time Tracker WebApp",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
